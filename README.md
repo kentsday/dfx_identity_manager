@@ -1,6 +1,8 @@
 # dfx_identity_manager
 
-scripts for you to get, update and reset default IC identity locally
+scripts for you to get, update and reset default IC identity locally.
+
+open `src` folder with Visual Studio Code and open it in container to create a pure dfx env.
 
 ## sh_show
 
