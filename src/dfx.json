@@ -1,0 +1,21 @@
+{
+    "canisters": {
+      
+    },
+    "defaults": {
+      "build": {
+        "packtool": ""
+      }
+    },
+    "networks": {
+      "ic": {
+        "providers": ["https://ic0.app"],
+        "type": "persistent"
+      },
+      "local": {
+        "bind": "127.0.0.1:8000",
+        "type": "ephemeral"
+      }
+    },
+    "version": 1
+  }
