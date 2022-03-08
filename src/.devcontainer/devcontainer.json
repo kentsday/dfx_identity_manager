@@ -33,6 +33,8 @@
   ],
   "mounts": [
     "target=${containerWorkspaceFolder}/.dfx,type=volume",
+    "target=${containerWorkspaceFolder}/target,type=volume",
+    "target=${containerWorkspaceFolder}/node_modules,type=volume"
   ]
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
