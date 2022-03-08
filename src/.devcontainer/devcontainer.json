@@ -29,7 +29,8 @@
   "extensions": [
     "mutantdino.resourcemonitor",
     "tamasfe.even-better-toml",
-    "serayuzgur.crates"
+    "serayuzgur.crates",
+    "GitHub.copilot"
   ],
   "mounts": [
     "target=${containerWorkspaceFolder}/.dfx,type=volume",
